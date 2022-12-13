@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL : [Github URL here   ](https://github.com/Yasser-St/ping-coming-soon-page-using-css-grid--12-columns-)
+- Live Site URL: [live site URL here](ping-coming-son.netlify.app)
 
 
 ### Built with
