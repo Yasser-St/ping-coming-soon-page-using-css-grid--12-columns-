@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL : [Github URL here   ](https://github.com/Yasser-St/ping-coming-soon-page-using-css-grid--12-columns-)
-- Live Site URL: [live site URL here](ping-coming-son.netlify.app)
+- Live Site URL: [live site URL here](https://profound-moxie-4b9ace.netlify.app)
 
 
 ### Built with
